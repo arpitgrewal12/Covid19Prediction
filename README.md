@@ -1,4 +1,4 @@
-# CMPT 459 Term Project
+# Covid 19 Prediction Rate
 
 ## Repo Layout
 - `Milestone-1` folder contains all code from our first milestone.
